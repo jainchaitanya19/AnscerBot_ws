@@ -1,0 +1,15 @@
+/home/chaitanya/AnscerBot_ws/install/anscer_bringup/share/ament_index/resource_index/package_run_dependencies/anscer_bringup
+/home/chaitanya/AnscerBot_ws/install/anscer_bringup/share/ament_index/resource_index/parent_prefix_path/anscer_bringup
+/home/chaitanya/AnscerBot_ws/install/anscer_bringup/share/anscer_bringup/environment/ament_prefix_path.sh
+/home/chaitanya/AnscerBot_ws/install/anscer_bringup/share/anscer_bringup/environment/ament_prefix_path.dsv
+/home/chaitanya/AnscerBot_ws/install/anscer_bringup/share/anscer_bringup/environment/path.sh
+/home/chaitanya/AnscerBot_ws/install/anscer_bringup/share/anscer_bringup/environment/path.dsv
+/home/chaitanya/AnscerBot_ws/install/anscer_bringup/share/anscer_bringup/local_setup.bash
+/home/chaitanya/AnscerBot_ws/install/anscer_bringup/share/anscer_bringup/local_setup.sh
+/home/chaitanya/AnscerBot_ws/install/anscer_bringup/share/anscer_bringup/local_setup.zsh
+/home/chaitanya/AnscerBot_ws/install/anscer_bringup/share/anscer_bringup/local_setup.dsv
+/home/chaitanya/AnscerBot_ws/install/anscer_bringup/share/anscer_bringup/package.dsv
+/home/chaitanya/AnscerBot_ws/install/anscer_bringup/share/ament_index/resource_index/packages/anscer_bringup
+/home/chaitanya/AnscerBot_ws/install/anscer_bringup/share/anscer_bringup/cmake/anscer_bringupConfig.cmake
+/home/chaitanya/AnscerBot_ws/install/anscer_bringup/share/anscer_bringup/cmake/anscer_bringupConfig-version.cmake
+/home/chaitanya/AnscerBot_ws/install/anscer_bringup/share/anscer_bringup/package.xml

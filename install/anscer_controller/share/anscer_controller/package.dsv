@@ -1,0 +1,8 @@
+source;share/anscer_controller/hook/cmake_prefix_path.ps1
+source;share/anscer_controller/hook/cmake_prefix_path.dsv
+source;share/anscer_controller/hook/cmake_prefix_path.sh
+source;share/anscer_controller/local_setup.bash
+source;share/anscer_controller/local_setup.dsv
+source;share/anscer_controller/local_setup.ps1
+source;share/anscer_controller/local_setup.sh
+source;share/anscer_controller/local_setup.zsh
